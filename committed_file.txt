@@ -1,2 +1,0 @@
-This is the first commit to the repository from VS code  working directory.
-Hour:3
